@@ -1,2 +1,1 @@
-# .github
-Public repository for Organization page
+This is our page, welcome
