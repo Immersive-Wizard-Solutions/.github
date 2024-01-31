@@ -1,12 +1,6 @@
-## Hi there 👋
+# ![Variant Long Website](https://immersive-wizard.com/wp-content/uploads/2023/11/Bildschirmfoto-2023-07-19-um-09.50.57.png)
 
-<!--
+We bring magic to the real life!
 
-**Here are some ideas to get you started:**
+<img src="https://immersive-wizard.com/wp-content/uploads/2023/11/Bildschirmfoto-2023-07-19-um-09.50.57.png" width"700">
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
